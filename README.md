@@ -19,7 +19,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 
 ### 1. Database Setup
 
-- **Database Creation**: The project starts by creating a database named `p1_retail_db`.
+- **Database Creation**: The project starts by creating a database named `project_1`.
 - **Table Creation**: A table named `retail_sales` is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 
 ```sql
@@ -212,7 +212,7 @@ This project serves as a comprehensive introduction to SQL for data analysts, co
 This project is part of my portfolio, showcasing the SQL skills essential for data analyst roles. If you have any questions, feedback, or would like to collaborate, feel free to get in touch!
 
 
-- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/chetan-upadhyay-3a035a296/))
+- **LinkedIn**: [Connect with me professionally](https://www.linkedin.com/in/chetan-upadhyay-3a035a296/)
 
 
 Thank you for your support, and I look forward to connecting with you!
